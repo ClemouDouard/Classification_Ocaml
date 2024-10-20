@@ -1,5 +1,5 @@
 # Classification_Ocaml
-This is a school project.
+This is a school project, the file `rapport.pdf` is in french.
 
 ## To compile :
 
